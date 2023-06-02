@@ -1,0 +1,66 @@
+{
+  "datasets": [
+    {
+      "name": "ECBplus",
+      "conll_url": "https://raw.githubusercontent.com/anastasia-zhukova/Diverse_CDCR_datasets/master/ECBplus-prep/output_data/ECBplus.conll",
+      "mentions_url": [
+        "https://raw.githubusercontent.com/anastasia-zhukova/Diverse_CDCR_datasets/master/ECBplus-prep/output_data/event_mentions.json",
+        "https://raw.githubusercontent.com/anastasia-zhukova/Diverse_CDCR_datasets/master/ECBplus-prep/output_data/entities_mentions.json"
+      ],
+      "__comment__Orlin:": "Please see the original topics of train, dev and test in text file topics",
+      "split_topics": {
+        "topic_level": {
+          "train": [
+            "1"
+           
+          ],
+          "test": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+          ],
+          "dev": [
+           "10"
+          ]
+        }
+      }
+    },
+    {
+      "name": "NewsWCL50",
+      "conll_url": "https://raw.githubusercontent.com/anastasia-zhukova/Diverse_CDCR_datasets/fixing-newswcl50-conll/NewsWCL50-prep/output_data/NewsWCL50.conll",
+      "mentions_url": [
+        "https://raw.githubusercontent.com/anastasia-zhukova/Diverse_CDCR_datasets/master/NewsWCL50-prep/output_data/event_mentions.json",
+        "https://raw.githubusercontent.com/anastasia-zhukova/Diverse_CDCR_datasets/master/NewsWCL50-prep/output_data/entities_mentions.json"
+      ],
+      "split_topics": {
+        "topic_level": {
+          "__comment__Orlin:": "the topics of test range was 0-9, I changed it to 5-7 just for illustration, the topics of train and dev were empty",
+          "train": ["0"],
+          "test": [ 
+           "2"
+          ],
+          "dev": ["1"]
+        }
+      }
+    },
+    {
+      "name": "MEANTIME_en",
+      "conll_url": "https://raw.githubusercontent.com/anastasia-zhukova/Diverse_CDCR_datasets/master/MEANTIME-prep/output_data/en/meantime.conll",
+      "mentions_url": [
+        "https://raw.githubusercontent.com/anastasia-zhukova/Diverse_CDCR_datasets/master/MEANTIME-prep/output_data/en/event_mentions.json",
+        "https://raw.githubusercontent.com/anastasia-zhukova/Diverse_CDCR_datasets/master/MEANTIME-prep/output_data/en/entities_mentions.json"
+      ],
+      "split_topics": {
+        "__comment__Orlin":"original it was NULL and in the datasets_config_updated.json it was: {'train'=[], 'test=['corpus_airbus', 'corpus_apple', 'corpus_gm']', dev=[]} ;; corpus_airbus=1, corpus_apple=2, corpus_gm = 3 - I converted the topics to numbers so that mentions can be selected based on the Topic id as it is implemented in split_dataset() located in functions_pipeline",
+        "topic_level": {"train": ["1"], "test": ["3"], "dev": ["2"]}
+      }
+    }
+  ]
+}

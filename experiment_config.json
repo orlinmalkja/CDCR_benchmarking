@@ -1,0 +1,40 @@
+{
+	"train_datasets": [
+		{
+			"name": "ECBplus",
+			"given_split": false
+		}
+	],
+	"test_datasets": [
+		{
+			"name": "NewsWCL50",
+			"given_split": false
+		}
+	],
+	"dev_datasets": [
+		{
+			"name": "ECBplus",
+			"given_split": true
+		}
+	],
+	"singletons": {
+		"train": true,
+		"test": true,
+		"dev": false
+	}, 
+	"model_name_train": "experiment27_02",
+	"model_name_test": null,
+	"evaluation_granularity": {
+		"dataset": false,
+		"topic": true,
+		"subtopic": true
+	}, 
+	"evaluation_metrics": {
+		"old_conll": true, 
+		"conll_lea": false
+	}, 
+	"metric_aggregation": {
+		"separate_mention_types": true, 
+		"combined_mention_types": true
+	}
+}

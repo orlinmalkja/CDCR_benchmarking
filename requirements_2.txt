@@ -1,0 +1,12 @@
+pandas
+requests
+numpy>=1.2.1
+sklearn~=0.0
+scikit-learn~=0.24.2
+spacy~=2.1.0
+torch~=1.10.1
+matplotlib~=3.3.4
+tqdm~=4.62.3
+gdown~=4.2.0
+allennlp~=0.9.0
+jsonnetbin

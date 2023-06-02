@@ -1,0 +1,46 @@
+Wrong mention - mention: family_HUM17392465282479574
+sent: A friend of the actress told People she went to Promises on Tuesday and that her friends and family supported her decision .
+cluster: 
+mention: family_HUM17392465282479574
+sent: A friend of the actress told People she went to Promises on Tuesday and that her friends and family supported her decision .
+
+mention: Tara Reid_HUM16236184328979740
+sent: Word comes from People magazine and other celebrity news outlets that Tara Reid , 33 , who starred in " American Pie '' and appeared on U.S. TV show " Scrubs , ' ' has entered the Promises Treatment Center in Malibu , California - the same facility that in the past has been the rehab facility of choice for many a Hollywood star .
+
+------------------------------------------------------S
+Wrong mention - mention: rep_HUM16284637796168708
+arg0_p: told_4_ACT16235311629112331
+sent: Perennial party girl Tara Reid checked herself into Promises Treatment Center , her rep told People .
+cluster: 
+mention: herself_HUM16236184328979740
+arg1_p: checked into_5_ACT16236402809085484
+sent: Perennial party girl Tara Reid checked herself into Promises Treatment Center , her rep told People .
+
+mention: rep_HUM16284637796168708
+arg0_p: told_4_ACT16235311629112331
+sent: Perennial party girl Tara Reid checked herself into Promises Treatment Center , her rep told People .
+
+------------------------------------------------------S
+Wrong mention - mention: Tara Reid_HUM16236184328979740
+sent: Word comes from People magazine and other celebrity news outlets that Tara Reid , 33 , who starred in " American Pie '' and appeared on U.S. TV show " Scrubs , ' ' has entered the Promises Treatment Center in Malibu , California - the same facility that in the past has been the rehab facility of choice for many a Hollywood star .
+cluster: 
+mention: family_HUM17392465282479574
+sent: A friend of the actress told People she went to Promises on Tuesday and that her friends and family supported her decision .
+
+mention: Tara Reid_HUM16236184328979740
+sent: Word comes from People magazine and other celebrity news outlets that Tara Reid , 33 , who starred in " American Pie '' and appeared on U.S. TV show " Scrubs , ' ' has entered the Promises Treatment Center in Malibu , California - the same facility that in the past has been the rehab facility of choice for many a Hollywood star .
+
+------------------------------------------------------S
+Wrong mention - mention: herself_HUM16236184328979740
+arg1_p: checked into_5_ACT16236402809085484
+sent: Perennial party girl Tara Reid checked herself into Promises Treatment Center , her rep told People .
+cluster: 
+mention: herself_HUM16236184328979740
+arg1_p: checked into_5_ACT16236402809085484
+sent: Perennial party girl Tara Reid checked herself into Promises Treatment Center , her rep told People .
+
+mention: rep_HUM16284637796168708
+arg0_p: told_4_ACT16235311629112331
+sent: Perennial party girl Tara Reid checked herself into Promises Treatment Center , her rep told People .
+
+------------------------------------------------------S

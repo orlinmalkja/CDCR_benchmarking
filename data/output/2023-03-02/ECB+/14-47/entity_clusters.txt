@@ -1,0 +1,10 @@
+Topic - 1/1ecb
+cluster #1
+['rep_HUM16284637796168708']
+
+cluster #2
+['family_HUM17392465282479574']
+
+cluster #3
+['People_HUM16236907954762763']
+

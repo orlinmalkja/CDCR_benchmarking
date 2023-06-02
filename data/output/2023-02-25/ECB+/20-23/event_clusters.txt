@@ -1,0 +1,22 @@
+Topic - 1/1ecb
+cluster #1
+['entered_ACT16236402809085484']
+
+cluster #2
+['stay_ACT16236402809085484']
+
+cluster #3
+['confirmed_ACT16235311629112331']
+
+cluster #4
+['checked into_ACT16236402809085484']
+
+cluster #5
+['told_ACT16235311629112331']
+
+cluster #6
+['went_ACT16236402809085484']
+
+cluster #7
+['decision_ACT16236402809085484']
+

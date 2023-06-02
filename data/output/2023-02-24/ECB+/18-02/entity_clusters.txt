@@ -1,0 +1,46 @@
+Topic - 1/1ecb
+cluster #1
+['People magazine_HUM16236907954762763']
+
+cluster #2
+['the Promises Treatment Center in Malibu, California_LOC16235213289813758']
+
+cluster #3
+['Jack Ketsoyan_HUM16284637796168708']
+
+cluster #4
+['People_HUM16236907954762763']
+
+cluster #5
+['actress_HUM16236184328979740']
+
+cluster #6
+['at Promises_LOC16235213289813758']
+
+cluster #7
+['People_HUM16236907954762763']
+
+cluster #8
+['Promises Treatment Center_LOC16235213289813758']
+
+cluster #9
+['on Tuesday_TIM16236441119149059']
+
+cluster #10
+['People_HUM16236907954762763']
+
+cluster #11
+['her_HUM16236184328979740']
+
+cluster #12
+['Promises_LOC16235213289813758']
+
+cluster #13
+['family_HUM17392465282479574', 'Tara Reid_HUM16236184328979740']
+
+cluster #14
+['facility_LOC16235213289813758', 'who_HUM16236184328979740']
+
+cluster #15
+['herself_HUM16236184328979740', 'rep_HUM16284637796168708', 'she_HUM16236184328979740', 'Tara Reid_HUM16236184328979740']
+

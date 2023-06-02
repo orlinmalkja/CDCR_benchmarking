@@ -1,0 +1,13 @@
+Topic - 34/34ecb
+cluster #1
+['Obama team_HUM17212524027211372']
+
+cluster #2
+['administration_HUM17212524027211372']
+
+cluster #3
+['Sanjay Gupta_HUM17634097626820205']
+
+cluster #4
+['Sanjay Gupta_HUM17634097626820205']
+
